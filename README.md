@@ -1,4 +1,4 @@
-# 💻 Senior Full-Stack Developer
+
 
 With over 12+ years of experience and expertise in the field, I am a senior full-stack developer committed to giving shapes to your visions. I have a 100% job success rate and possess extensive experience in the analysis, development, and maintenance of both Windows and web software projects.
 
